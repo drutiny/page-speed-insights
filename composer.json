@@ -1,0 +1,10 @@
+{
+  "name": "drutiny/page-speed-insights",
+  "type": "library",
+  "description": "Integration with Pagespeed Insights",
+  "minimum-stability": "dev",
+  "require": {
+    "drutiny/drutiny": "2.3.*@dev",
+    "dsentker/phpinsights": "^0.2.2"
+  }
+}
