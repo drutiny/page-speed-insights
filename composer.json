@@ -12,7 +12,7 @@
   },
   "require": {
     "drutiny/drutiny": "2.3.*@dev",
-    "dsentker/phpinsights": "^0.2.3"
+    "dsentker/phpinsights": "0.2.*"
   },
   "minimum-stability": "dev"
 }
