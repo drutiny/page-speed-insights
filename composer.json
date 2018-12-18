@@ -2,9 +2,18 @@
   "name": "drutiny/page-speed-insights",
   "type": "library",
   "description": "Integration with Pagespeed Insights",
-  "minimum-stability": "dev",
+  "keywords": ["drupal", "audit", "report", "pagespeed-insights"],
+  "license": "GPL-2.0",
+  "authors": [
+    {"name": "Thomas Lafon", "email": "tlafon79@gmail.com"}
+  ],
+  "support": {
+    "issues": "https://github.com/drutiny/page-speed-insights/issues",
+    "source": "https://github.com/drutiny/page-speed-insights"
+  },
   "require": {
     "drutiny/drutiny": "2.3.*@dev",
-    "dsentker/phpinsights": "^0.2.2"
-  }
+    "dsentker/phpinsights": "0.2.*"
+  },
+  "minimum-stability": "dev"
 }
