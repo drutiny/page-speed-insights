@@ -3,6 +3,7 @@
   "type": "library",
   "description": "Integration with Pagespeed Insights",
   "keywords": ["drupal", "audit", "report", "pagespeed-insights"],
+  "license": "GPL-2.0",
   "authors": [
     {"name": "Thomas Lafon", "email": "tlafon79@gmail.com"}
   ],
