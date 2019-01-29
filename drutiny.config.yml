@@ -1,5 +1,5 @@
 CredentialSchema:
-  pagespeedinsights:
+  page-speed-insights:
     key:
       type: string
       description: The Pagespeed Insights API key. This can be obtained on this page https://cloud.google.com/docs/authentication/api-keys.
